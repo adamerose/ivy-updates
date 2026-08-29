@@ -1,0 +1,8 @@
+version: 0.2.1-edge.12
+files:
+  - url: https://github.com/adamerose/ivy-updates/releases/download/edge-v0.2.1-edge.12/Ivy-Setup-0.2.1-edge.12.exe
+    sha512: C3V0AxAYDOnWviFu94HjQHtmXoAnXDzQQp3F6WiqKWbzrX2PP7/OXHflBEZnkGf0fiIKD1lYmAtesVZ0VuE2QQ==
+    size: 173780899
+path: https://github.com/adamerose/ivy-updates/releases/download/edge-v0.2.1-edge.12/Ivy-Setup-0.2.1-edge.12.exe
+sha512: C3V0AxAYDOnWviFu94HjQHtmXoAnXDzQQp3F6WiqKWbzrX2PP7/OXHflBEZnkGf0fiIKD1lYmAtesVZ0VuE2QQ==
+releaseDate: '2026-08-29T09:44:37.102Z'
