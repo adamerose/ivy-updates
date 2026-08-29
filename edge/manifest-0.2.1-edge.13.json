@@ -1,0 +1,19 @@
+{
+  "version": "0.2.1-edge.13",
+  "commit_sha": "da5be1bdb66857e62fdc7b0e303fc42937481df7",
+  "commit_date": "2026-08-29T06:29:00-04:00",
+  "channel": "edge",
+  "previous_version": "0.2.1-edge.12",
+  "files": [
+    {
+      "name": "Ivy-Setup-0.2.1-edge.13.exe",
+      "size": 173762639,
+      "sha512": "c2008fd7c5d3b79d3d24000444b9d87f9261ddfd1a4b227c3432926387298d1d3fd24581665d06320ca6896701d5d66722bb01bf7db1443462ef71b5ea034695"
+    },
+    {
+      "name": "Ivy-Setup-0.2.1-edge.13.exe.blockmap",
+      "size": 181534,
+      "sha512": "d38d34f7262149880fc09fd8a43eff83e9734a90e08f1fa78a22c3f08dea9b4a7668b1db86f6bb1615cfa9fe1acf91c71305a5e7df87016424665903bb45af5a"
+    }
+  ]
+}
