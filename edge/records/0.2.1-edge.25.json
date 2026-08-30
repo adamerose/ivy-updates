@@ -1,0 +1,33 @@
+{
+  "status": "advertisement",
+  "channel": "edge",
+  "version": "0.2.1-edge.25",
+  "commit": "16ea287ae1bbc8e249aa429e7e000b5329c05c75",
+  "prepared_at": "2026-08-30T09:20:24.111Z",
+  "signing_key": "1748345e54fc78e91ddfdf8bbc9faf0a81e3fa4f5602024974a3a600744a76f5",
+  "checks": [
+    "local release verifier",
+    "public download digest",
+    "deployed anonymous metadata bytes"
+  ],
+  "pages_deployments": {
+    "metadata": {
+      "commit": "5e2ab981d423fbd2fcdaa107687c2f5c9aa15164",
+      "runId": 33303786971,
+      "url": "https://github.com/adamerose/ivy-updates/actions/runs/33303786971"
+    }
+  },
+  "advertisement": {
+    "version": "0.2.1-edge.25",
+    "pointer_sha512": "1dc1fd781396e81e9f4b8a3b7f7a4284c52855ff0ccfde35c3e018ebc565a2b3154f73ced6559e27b7dd9c728362ae2d81bf548ae9f79eab77d41af51d348c82",
+    "installer_page_sha512": "76978583f22022284bf29ad0f2e0c968a92bc464c6ff5a43a64854a711695d107eba77c04a213e5bd00d67f005be8bab7b2a5cf9bebad5cd57ab6e6ff08c0b5a"
+  },
+  "lineage": {
+    "previous_version": "0.2.1-edge.24"
+  },
+  "public_release": "https://github.com/adamerose/ivy-updates/releases/tag/edge-v0.2.1-edge.25",
+  "installer_page": "https://adamerose.github.io/ivy-updates/edge/",
+  "feed": "https://adamerose.github.io/ivy-updates/edge/",
+  "workflow_run": "https://github.com/adamerose/ivy/actions/runs/33303050748",
+  "rollback": "Redeploy edge/records/latest-<known-good>.yml as edge/latest.yml; installed machines need a higher corrective version."
+}
