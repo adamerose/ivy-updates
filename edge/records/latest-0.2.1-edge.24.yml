@@ -1,0 +1,8 @@
+version: 0.2.1-edge.24
+files:
+  - url: https://github.com/adamerose/ivy-updates/releases/download/edge-v0.2.1-edge.24/Ivy-Setup-0.2.1-edge.24.exe
+    sha512: jz/hANDJd9PdcTALjtw1R2TB0Ehyytqq0R+D0yIkfcKdiM2v2sfPBbFLSEAvzlyXISbByGeP8FotLHD3IuF2Tw==
+    size: 174113784
+path: https://github.com/adamerose/ivy-updates/releases/download/edge-v0.2.1-edge.24/Ivy-Setup-0.2.1-edge.24.exe
+sha512: jz/hANDJd9PdcTALjtw1R2TB0Ehyytqq0R+D0yIkfcKdiM2v2sfPBbFLSEAvzlyXISbByGeP8FotLHD3IuF2Tw==
+releaseDate: '2026-08-30T08:37:13.010Z'
