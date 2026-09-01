@@ -1,0 +1,8 @@
+version: 0.2.1-edge.37
+files:
+  - url: https://github.com/adamerose/ivy-updates/releases/download/edge-v0.2.1-edge.37/Ivy-Setup-0.2.1-edge.37.exe
+    sha512: gZyOBwp/lKzQ8jncuRx+QbUHs3uwLV00SH9gdLixQTUTt2kUDwM5L544MMH77NVPCuhDYMyeAr/AE273ZNtXtQ==
+    size: 174353012
+path: https://github.com/adamerose/ivy-updates/releases/download/edge-v0.2.1-edge.37/Ivy-Setup-0.2.1-edge.37.exe
+sha512: gZyOBwp/lKzQ8jncuRx+QbUHs3uwLV00SH9gdLixQTUTt2kUDwM5L544MMH77NVPCuhDYMyeAr/AE273ZNtXtQ==
+releaseDate: '2026-09-01T20:21:53.554Z'
