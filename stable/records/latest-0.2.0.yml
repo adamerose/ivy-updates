@@ -1,0 +1,8 @@
+version: 0.2.0
+files:
+  - url: https://github.com/adamerose/ivy-updates/releases/download/stable-v0.2.0/Ivy-Setup-0.2.0.exe
+    sha512: 41rYVphxf8b7FSIEWjneakZTD+kuRO3QidwQ1xTKBIo9CIpqYlVNN4/0eaNrzMDhDdVLR7Cs5ojKTLFWNWb9QQ==
+    size: 174691208
+path: https://github.com/adamerose/ivy-updates/releases/download/stable-v0.2.0/Ivy-Setup-0.2.0.exe
+sha512: 41rYVphxf8b7FSIEWjneakZTD+kuRO3QidwQ1xTKBIo9CIpqYlVNN4/0eaNrzMDhDdVLR7Cs5ojKTLFWNWb9QQ==
+releaseDate: '2026-09-03T18:40:48.617Z'
