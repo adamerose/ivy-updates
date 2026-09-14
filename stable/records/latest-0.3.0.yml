@@ -1,0 +1,8 @@
+version: 0.3.0
+files:
+  - url: https://github.com/adamerose/ivy-updates/releases/download/stable-v0.3.0/Ivy-Setup-0.3.0.exe
+    sha512: XoqoIOmYKj29Dd/Pn4Tb7Z+4pocJ4i9CgLLXp/ccW2fPaS2oJTkhqss4qIk04tDLZArsWIvMzzhgsw6j5rfbUg==
+    size: 176649701
+path: https://github.com/adamerose/ivy-updates/releases/download/stable-v0.3.0/Ivy-Setup-0.3.0.exe
+sha512: XoqoIOmYKj29Dd/Pn4Tb7Z+4pocJ4i9CgLLXp/ccW2fPaS2oJTkhqss4qIk04tDLZArsWIvMzzhgsw6j5rfbUg==
+releaseDate: '2026-09-14T10:15:58.427Z'
