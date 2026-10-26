@@ -1,8 +1,8 @@
-version: 0.6.1
+version: 0.6.2
 files:
-  - url: https://github.com/adamerose/ivy-updates/releases/download/stable-v0.6.1/Ivy-Setup-0.6.1.exe
-    sha512: tLwUDk3s4ZgtvktjcDYbmFedGekPkr6RtfEnhyNJ/QuaBfCkvLLEx/VWFn8JnmPXnnRcSB42ELTQCeFdYkPehg==
-    size: 185080122
-path: https://github.com/adamerose/ivy-updates/releases/download/stable-v0.6.1/Ivy-Setup-0.6.1.exe
-sha512: tLwUDk3s4ZgtvktjcDYbmFedGekPkr6RtfEnhyNJ/QuaBfCkvLLEx/VWFn8JnmPXnnRcSB42ELTQCeFdYkPehg==
-releaseDate: '2026-10-26T18:38:24.893Z'
+  - url: https://github.com/adamerose/ivy-updates/releases/download/stable-v0.6.2/Ivy-Setup-0.6.2.exe
+    sha512: HojLrsi96DYxg3QLGUIh0fDB0sEjNwiADPCwCEn9IpAcx6b6SqIyrMNdE2MORzr9eOSkYv8Zd3DA2HT9Iy8Ayw==
+    size: 185059892
+path: https://github.com/adamerose/ivy-updates/releases/download/stable-v0.6.2/Ivy-Setup-0.6.2.exe
+sha512: HojLrsi96DYxg3QLGUIh0fDB0sEjNwiADPCwCEn9IpAcx6b6SqIyrMNdE2MORzr9eOSkYv8Zd3DA2HT9Iy8Ayw==
+releaseDate: '2026-10-26T23:15:21.648Z'
