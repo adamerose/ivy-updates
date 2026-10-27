@@ -1,0 +1,20 @@
+{
+  "version": "0.7.0",
+  "commit_sha": "dd54d13b24b1e257ed9e825bdb4fd244a6d4f8e2",
+  "commit_date": "2026-10-27T04:31:23-04:00",
+  "release_tag": "v0.7.0",
+  "channel": "stable",
+  "previous_version": "0.6.2",
+  "files": [
+    {
+      "name": "Ivy-Setup-0.7.0.exe",
+      "size": 182133643,
+      "sha512": "0a221b2f2d021b1a7094bdda0d28634a6f330697fe9a61e13fd1b2bae6b6c6fd9b5f77dc1ceb74439900f98b14dfd58d32b86b7b5d6db1b5211f71aa78ffd032"
+    },
+    {
+      "name": "Ivy-Setup-0.7.0.exe.blockmap",
+      "size": 191433,
+      "sha512": "3196c38977b7ccc99f49e6eae91c676fe585319dd531dc1667db54f5653ce718496c5002f3f4385b4f3dc06f94aea3e1970744ca25d8359c95900c3457d6cf9d"
+    }
+  ]
+}
