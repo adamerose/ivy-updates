@@ -1,0 +1,33 @@
+{
+  "status": "advertisement",
+  "channel": "stable",
+  "version": "0.7.2",
+  "commit": "3a36117ae7c7774bef6e70acbd9c068b5d1badeb",
+  "prepared_at": "2026-10-28T15:12:06.753Z",
+  "signing_key": "0210929ec3b4b1c583fcc4f4a1cf27a7fbf0ea92ad7cacb4c48d138729ae7854",
+  "checks": [
+    "local release verifier",
+    "public download digest",
+    "deployed anonymous metadata bytes"
+  ],
+  "pages_deployments": {
+    "metadata": {
+      "commit": "edbd78b926f44af0f5b9cbc1f7096d9d6c36e046",
+      "runId": 40713457478,
+      "url": "https://github.com/adamerose/ivy-updates/actions/runs/40713457478"
+    }
+  },
+  "advertisement": {
+    "version": "0.7.2",
+    "pointer_sha512": "313eb8717ef508cd384d39227cf6eb976c517a32db8166f11e0d7db776b13db490867a6c33f7c56792a55ccbeb47532fa08456c033a694ab255a35d1cdaf7766",
+    "installer_page_sha512": "f7cd33598a8f46e1fed6cbc605d2080f9bc6923a77c88f903a665118f1011048ef9c0e3fca5c5fa9801171a29835c82228618c972bdfdb6c0fe8a5d45e6cd49e"
+  },
+  "lineage": {
+    "previous_version": "0.7.0"
+  },
+  "public_release": "https://github.com/adamerose/ivy-updates/releases/tag/stable-v0.7.2",
+  "installer_page": "https://adamerose.github.io/ivy-updates/stable/",
+  "feed": "https://adamerose.github.io/ivy-updates/stable/",
+  "private_release": "https://github.com/adamerose/ivy/releases/tag/v0.7.2",
+  "rollback": "Redeploy stable/records/latest-<known-good>.yml as stable/latest.yml; installed machines need a higher corrective version."
+}
